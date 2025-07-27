@@ -30,8 +30,8 @@ Inside each file:
 ## 📘 Problems List & Solution Links
 | Day | Problem Title                              | Solution Link                             | Status      |
 |-----|---------------------------------------------|--------------------------------------------|-------------|
-| 1   | Print "Hello, World!"                      | [Day01_Print_Hello_World.py](Day01_Print_Hello_World.py) |       |
-| 2   | Sum of Two Numbers                         | [Day02_Sum_of_Two_Numbers.py](Day02_Sum_of_Two_Numbers.py) |       |
+| 1   | Print "Hello, World!"                      | [Day01_Print_Hello_World.py](Day01_Print_Hello_World.py) |  Done ✅     |
+| 2   | Sum of Two Numbers                         | [Day02_Sum_of_Two_Numbers.py](Day02_Sum_of_Two_Numbers.py) |  Done ✅      |
 | 3   | Maximum of Two Numbers                     | [Day03_Maximum_of_Two_Numbers.py](Day03_Maximum_of_Two_Numbers.py) |  🛠️ Pending        |
 | 4   | Check Even or Odd                          | [Day04_Check_Even_or_Odd.py](Day04_Check_Even_or_Odd.py) |  🛠️ Pending     |
 | 5   | Check Prime Number                         | [Day05_Prime_Number_Check.py](Day05_Prime_Number_Check.py) |  🛠️ Pending    |
