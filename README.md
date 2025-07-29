@@ -35,7 +35,7 @@ Inside each file:
 | 3   | Maximum of Two Numbers                     | [Day03_Maximum_of_Two_Numbers.py](Day03_Maximum_of_Two_Numbers.py) | Done ✅      |
 | 4   | Check Even or Odd                          | [Day04_Check_Even_or_Odd.py](Day04_Check_Even_or_Odd.py) |  Done ✅     |
 | 5   | Check Prime Number                         | [Day05_Prime_Number_Check.py](Day05_Prime_Number_Check.py) |  Done ✅  |
-| 6   | Find Factorial of a Number                 | [Day06_Factorial.py](Day06_Factorial.py)   |    🛠️ Pending   |
+| 6   | Find Factorial of a Number                 | [Day06_Factorial.py](Day06_Factorial.py)   |   Done ✅   |
 | 7   | Fibonacci Sequence up to n                 | [Day07_Fibonacci_Series.py](Day07_Fibonacci_Series.py) |   🛠️ Pending     |
 | 8   | Reverse a Number                           | [Day08_Reverse_Number.py](Day08_Reverse_Number.py) |  🛠️ Pending     |
 | 9   | Palindrome Number                          | [Day09_Palindrome_Check.py](Day09_Palindrome_Check.py) | 🛠️ Pending |
