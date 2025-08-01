@@ -36,14 +36,14 @@ Inside each file:
 | 4   | Check Even or Odd                          | [Day04_Check_Even_or_Odd.py](Day04_Check_Even_or_Odd.py) |  Done ✅     |
 | 5   | Check Prime Number                         | [Day05_Prime_Number_Check.py](Day05_Prime_Number_Check.py) |  Done ✅  |
 | 6   | Find Factorial of a Number                 | [Day06_Factorial.py](Day06_Factorial.py)   |   Done ✅   |
-| 7   | Fibonacci Sequence up to n                 | [Day07_Fibonacci_Series.py](Day07_Fibonacci_Series.py) |   🛠️ Pending     |
-| 8   | Reverse a Number                           | [Day08_Reverse_Number.py](Day08_Reverse_Number.py) |  🛠️ Pending     |
-| 9   | Palindrome Number                          | [Day09_Palindrome_Check.py](Day09_Palindrome_Check.py) | 🛠️ Pending |
-| 10  | Count Digits in a Number                   | [Day10_Count_Digits.py](Day10_Count_Digits.py) |  🛠️ Pending     |
-| 11  | Armstrong Number Check                     | [Day11_Armstrong_Number.py](Day11_Armstrong_Number.py) | 🛠️ Pending       |
-| 12  | Print All Primes Between 1 to 100          | [Day12_Print_Primes_1_to_100.py](Day12_Print_Primes_1_to_100.py) | 🛠️ Pending       |
-| 13  | Sum of Digits of a Number                  | [Day13_Sum_of_Digits.py](Day13_Sum_of_Digits.py) |   🛠️ Pending     |
-| 14  | GCD of Two Numbers                         | [Day14_GCD.py](Day14_GCD.py)               | 🛠️ Pending       |
+| 7   | Fibonacci Sequence up to n                 | [Day07_Fibonacci_Series.py](Day07_Fibonacci_Series.py) | Done ✅       |
+| 8   | Reverse a Number                           | [Day08_Reverse_Number.py](Day08_Reverse_Number.py) |  Done ✅     |
+| 9   | Palindrome Number                          | [Day09_Palindrome_Check.py](Day09_Palindrome_Check.py) | Done ✅ |
+| 10  | Count Digits in a Number                   | [Day10_Count_Digits.py](Day10_Count_Digits.py) |Done ✅       |
+| 11  | Armstrong Number Check                     | [Day11_Armstrong_Number.py](Day11_Armstrong_Number.py) | Done ✅  |
+| 12  | Print All Primes Between 1 to 100          | [Day12_Print_Primes_1_to_100.py](Day12_Print_Primes_1_to_100.py) | Done ✅       |
+| 13  | Sum of Digits of a Number                  | [Day13_Sum_of_Digits.py](Day13_Sum_of_Digits.py) | Done ✅       |
+| 14  | GCD of Two Numbers                         | [Day14_GCD.py](Day14_GCD.py)               | Done ✅      |
 | 15  | LCM of Two Numbers                         | [Day15_LCM.py](Day15_LCM.py)               |  🛠️ Pending      |
 | 16  | Swap Two Numbers Without Temp Variable     | [Day16_Swap_Two_Numbers.py](Day16_Swap_Two_Numbers.py) | 🛠️ Pending     |
 | 17  | Convert Celsius to Fahrenheit              | [Day17_Celsius_to_Fahrenheit.py](Day17_Celsius_to_Fahrenheit.py) |  🛠️ Pending     |
