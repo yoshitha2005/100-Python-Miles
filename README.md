@@ -49,7 +49,7 @@ Inside each file:
 | 17  | Convert Celsius to Fahrenheit              | [Day17_Celsius_to_Fahrenheit.py](Day17_Celsius_to_Fahrenheit.py) |  Done ✅     |
 | 18  | Check Leap Year                            | [Day18_Leap_Year_Check.py](Day18_Leap_Year_Check.py) | Done ✅     |
 | 19  | Calculator using Functions                 | [Day19_Calculator_Functions.py](Day19_Calculator_Functions.py) |   Done ✅     |
-| 20  | ASCII Value of a Character                 | [Day20_ASCII_Value.py](Day20_ASCII_Value.py) |  Done ✅   Done ✅     |
+| 20  | ASCII Value of a Character                 | [Day20_ASCII_Value.py](Day20_ASCII_Value.py) |  Done ✅      |
 | 22  | Sum of First N Natural Numbers             | [Day22_Sum_N_Natural.py](Day22_Sum_N_Natural.py) |  Done ✅     |
 | 23  | Print Star Pattern                         | [Day23_Star_Pattern.py](Day23_Star_Pattern.py) | Done ✅      |
 | 24  | Count Vowels and Consonants                | [Day24_Count_Vowels_Consonants.py](Day24_Count_Vowels_Consonants.py) |  Done ✅     |
