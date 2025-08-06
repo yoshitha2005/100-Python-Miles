@@ -44,16 +44,15 @@ Inside each file:
 | 12  | Print All Primes Between 1 to 100          | [Day12_Print_Primes_1_to_100.py](Day12_Print_Primes_1_to_100.py) | Done ✅       |
 | 13  | Sum of Digits of a Number                  | [Day13_Sum_of_Digits.py](Day13_Sum_of_Digits.py) | Done ✅       |
 | 14  | GCD of Two Numbers                         | [Day14_GCD.py](Day14_GCD.py)               | Done ✅      |
-| 15  | LCM of Two Numbers                         | [Day15_LCM.py](Day15_LCM.py)               |  🛠️ Pending      |
-| 16  | Swap Two Numbers Without Temp Variable     | [Day16_Swap_Two_Numbers.py](Day16_Swap_Two_Numbers.py) | 🛠️ Pending     |
-| 17  | Convert Celsius to Fahrenheit              | [Day17_Celsius_to_Fahrenheit.py](Day17_Celsius_to_Fahrenheit.py) |  🛠️ Pending     |
-| 18  | Check Leap Year                            | [Day18_Leap_Year_Check.py](Day18_Leap_Year_Check.py) |  🛠️ Pending      |
-| 19  | Calculator using Functions                 | [Day19_Calculator_Functions.py](Day19_Calculator_Functions.py) |   🛠️ Pending     |
-| 20  | ASCII Value of a Character                 | [Day20_ASCII_Value.py](Day20_ASCII_Value.py) |  🛠️ Pending      |
-| 21  | Number to Binary, Octal, and Hexadecimal   | [Day21_Number_Conversion.py](Day21_Number_Conversion.py) | 🛠️ Pending      |
-| 22  | Sum of First N Natural Numbers             | [Day22_Sum_N_Natural.py](Day22_Sum_N_Natural.py) |  🛠️ Pending      |
-| 23  | Print Star Pattern                         | [Day23_Star_Pattern.py](Day23_Star_Pattern.py) | 🛠️ Pending      |
-| 24  | Count Vowels and Consonants                | [Day24_Count_Vowels_Consonants.py](Day24_Count_Vowels_Consonants.py) |  🛠️ Pending     |
+| 15  | LCM of Two Numbers                         | [Day15_LCM.py](Day15_LCM.py)               |  Done ✅     |
+| 16  | Swap Two Numbers Without Temp Variable     | [Day16_Swap_Two_Numbers.py](Day16_Swap_Two_Numbers.py) | Done ✅     |
+| 17  | Convert Celsius to Fahrenheit              | [Day17_Celsius_to_Fahrenheit.py](Day17_Celsius_to_Fahrenheit.py) |  Done ✅     |
+| 18  | Check Leap Year                            | [Day18_Leap_Year_Check.py](Day18_Leap_Year_Check.py) | Done ✅     |
+| 19  | Calculator using Functions                 | [Day19_Calculator_Functions.py](Day19_Calculator_Functions.py) |   Done ✅     |
+| 20  | ASCII Value of a Character                 | [Day20_ASCII_Value.py](Day20_ASCII_Value.py) |  Done ✅   Done ✅     |
+| 22  | Sum of First N Natural Numbers             | [Day22_Sum_N_Natural.py](Day22_Sum_N_Natural.py) |  Done ✅     |
+| 23  | Print Star Pattern                         | [Day23_Star_Pattern.py](Day23_Star_Pattern.py) | Done ✅      |
+| 24  | Count Vowels and Consonants                | [Day24_Count_Vowels_Consonants.py](Day24_Count_Vowels_Consonants.py) |  Done ✅     |
 | 25  | Remove Punctuation from String             | [Day25_Remove_Punctuation.py](Day25_Remove_Punctuation.py) | 🛠️ Pending      |
 | 26  | Reverse a String                           | [Day26_Reverse_String.py](Day26_Reverse_String.py) | 🛠️ Pending      |
 | 27  | Count Words in a Sentence                  | [Day27_Count_Words.py](Day27_Count_Words.py) |  🛠️ Pending      |
